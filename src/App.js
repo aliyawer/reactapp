@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Wellcome to Aliyawer Qambari's first react application.
+        Wellcome to Aliyawer Qambari's first react application. This page is
+        under developing.
       </header>
     </div>
   );
